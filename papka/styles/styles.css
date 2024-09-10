@@ -1,0 +1,17 @@
+
+body
+{
+    background-color:silver;
+}
+
+ul li
+{
+    display: inline;
+}
+
+#title
+{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+}
